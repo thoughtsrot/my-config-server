@@ -1,0 +1,7 @@
+server.port=
+
+management.endpoints.web.exposure.include=*
+
+vinServiceName=peter-florek-random-quote-service
+serviceProtocol=http://
+servicePath=/motorcycle/{vin}
