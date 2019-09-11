@@ -1,7 +1,7 @@
-server.port=
+server.port=7979
 
 management.endpoints.web.exposure.include=*
 
-vinServiceName=peter-florek-random-quote-service
+vinServiceName=vin-lookup
 serviceProtocol=http://
 servicePath=/motorcycle/{vin}
